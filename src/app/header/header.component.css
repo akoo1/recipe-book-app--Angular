@@ -1,0 +1,10 @@
+
+.navbar {
+  margin-top: 3rem;
+}
+
+.navbar-brand {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
